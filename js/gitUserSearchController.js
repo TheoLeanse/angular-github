@@ -8,5 +8,3 @@ githubUserSearch.controller('GitUserSearchController', ['$resource', function($r
     );
   };
 }]);
-
-// '264601a743391608b4223c49a37cfd1b93dff5c5'
